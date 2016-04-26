@@ -11,7 +11,7 @@ s.social_media_url = 'https://twitter.com/yudi'
 s.platform     = :ios, '7.0'
 s.requires_arc = true
 
-s.source_files = 'Pod/Classes'
+s.source_files = "podspecDemo", "podspecDemo/podspecDemo/*.{h,m}"
 s.resources = 'Pod/Assets/*'
 
 s.frameworks = 'UIKit', 'CoreText'
