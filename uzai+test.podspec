@@ -4,9 +4,9 @@ s.version          = "0.0.1"
 s.summary          = "The open source fonts for uzai apps + test."
 s.homepage         = "https://github.com/yudi40060/swiftTest"
 s.license          = 'Code is MIT, then custom font licenses.'
-s.author           = { "Orta" => "orta.therox@gmail.com" }
+s.author           = { "于迪" => "yudi400060@126.com" }
 s.source           = { :git => "https://github.com/yudi40060/swiftTest.git", :tag => s.version }
-s.social_media_url = 'https://twitter.com/artsy'
+s.social_media_url = 'https://twitter.com/yudi'
 
 s.platform     = :ios, '7.0'
 s.requires_arc = true
