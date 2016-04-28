@@ -29,6 +29,7 @@
     self.appDelegateService = [[AppDelegateService alloc] init];
     [self.appDelegateService initUI];
     
+    
 //    ViewController *mainVC = [[ViewController alloc] init];
 //    UINavigationController *mainNC = [[UINavigationController alloc] initWithRootViewController:mainVC];
 //    self.window.rootViewController = mainNC;

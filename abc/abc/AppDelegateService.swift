@@ -51,7 +51,6 @@ class AppDelegateService: NSObject {
         
         getAppDelegate().rootViewController = myTabbar;
         
-        
     }
     
     func getAppDelegate() -> UIWindow {
